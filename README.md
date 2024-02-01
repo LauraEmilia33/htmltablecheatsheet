@@ -1,0 +1,1 @@
+In Codecademy, we were instructed to build your own cheatsheet as a challenge, which included CSS and HTML. I chose tables (like their example) because honestly I find it hard to remember the HTML table structure! 
